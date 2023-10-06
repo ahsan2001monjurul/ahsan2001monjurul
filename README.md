@@ -1,26 +1,12 @@
 
-<h1 align="center">Hi 👋, I'm ISHAN AHMAD</h1>
+<h1 align="center">Hi 👋, I'm Md. Monjrurl Ahsan</h1>
 
-- A problem solver and explorer from Dhaka! <br/>
-- I have solved 1K++ coding problems on various online judges. <br/>
 - I also made my hand dirty with several web and android based projects. <br/>
 - Currently, I am working on a neural net based OCR project. <br/>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=ishan-nahid&label=Profile%20views&color=0e75b6&style=flat" alt="ishan-nahid" /> </p>
-
-![ISHAN-AHMAD](./img/nahid.png)
 
 
-<!--
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Ihsan-nahid)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/nahid_gtc)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg' alt='codeforces' height='40'>](https://codeforces.com/profile/IHSAN_NAHID)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/Ihsan_Nahid/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/acm.svg' alt='acm' height='40'>](https://icpc.global/private/profile/589150)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg' alt='codechef' height='40'>](https://www.codechef.com/users/ihsan_nahid)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/blogger.svg' alt='blogger' height='40'>](https://musketeersdiary.blogspot.com/search/label/nahid%20rahman?&max-results=6)  
--->
+![ahsan2001monjurul]
 
-### Online Judge Profiles:
-<a href="https://codeforces.com/profile/ihsan_nahid" target="blank"><img align="left" src="./img/CF_logo.svg" alt="ihsan_nahid" width="50px" style="padding-right:10px;" /></a>
-<a href="https://www.codechef.com/users/ihsan_nahid" target="blank"><img align="left" src="./img/codechef.svg" alt="ihsan_nahid" width="50px" style="padding-right:10px;" /></a>
-<a href="https://toph.co/u/NAHID_GTC" target="blank"><img align="left" src="./img/toph.svg" alt="NAHID_GTC" width="50px" style="padding-right:10px;" /></a>
-<a href="https://www.beecrowd.com.br/judge/en/profile/258234" target="blank"><img align="left" src="./img/beecrowd.webp" alt="NAHID_GTC" width="50px" style="padding-right:10px;" /></a>
-<a href="https://uhunt.onlinejudge.org/id/1132963" target="blank"><img align="left" src="./img/uvaOJ.svg" alt="nahid_binary" width="50px" style="padding-right:10px;" /></a>
-<a href="https://lightoj.com/user/nahid_gtc" target="blank"><img align="left" src="./img/LOJ.svg" alt="nahid_gtc" width="50px" style="padding-right:10px;" /></a>
 
 </br>
 </br>
@@ -44,12 +30,6 @@
 <img align="left" alt="python" width="26px" src="./img/python-5.svg" style="padding-right:10px;"/>
 <img align="left" alt="Sublime-Text" width="26px" src="./img/sublime-text.svg" style="padding-right:10px;"/>
 <img align="left" alt="LaTeX" width="26px" src="./img/latex.svg" style="padding-right:10px;"/> </br></br>
-
-
-### Github Overview:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ishan-nahid&show_icons=true&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ishan-nahid&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ishan-nahid&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
 [![wakatime](https://wakatime.com/badge/user/52bc12bd-2c5d-4ff7-b932-322fcb229068.svg)](https://wakatime.com/@52bc12bd-2c5d-4ff7-b932-322fcb229068)
