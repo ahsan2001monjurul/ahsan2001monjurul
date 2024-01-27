@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md.Monjurul Ahsan</h1>
-<h3 align="center">I am a tech enthusiast and UI/UX designer diving into the world of web development with a focus on React.js. Juggling frontend projects and Android app development. With strong communication skills, I always thrive on networking and am always eager to explore the latest tech trends. Ready to make a mark in the dynamic tech landscape!</h3>
+<h3 align="center">I am a tech enthusiast and UI/UX designer diving into the world of web development with a focus on React.js. Juggling front-end projects and Android app development. With strong communication skills, I always thrive on networking and am always eager to explore the latest tech trends. Ready to make a mark in the dynamic tech landscape!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahsan2001monjurul&label=Profile%20views&color=0e75b6&style=flat" alt="ahsan2001monjurul" /> </p>
 
@@ -26,5 +26,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahsan2001monjurul&show_icons=true&locale=en" alt="ahsan2001monjurul" /></p>
 
-
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=ahsan2001monjurul&label=Profile%20views&color=0e75b6&style=flat" alt="ahsan2001monjurul" /> </p>
