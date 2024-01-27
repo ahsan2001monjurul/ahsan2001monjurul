@@ -70,21 +70,13 @@
 
 <h3 align="left">Current Works and learnings :</h3>
 
-###
-
-<br clear="both">
-
-<img align="right" height="150" src="https://gifdb.com/images/high/programming-coding-digital-marketing-b63zccx04i4luhh9.gif"  />
-
-###
-
 <p align="left">🔭 I’m currently working on Frontend Developing React-Based Project<br><br>🌱 I’m currently learning Mern stack development</p>
 
 ###
 
 <br clear="both">
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ahsan2001monjurul&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=prussian&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahsan2001monjurul&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=prussian&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=ahsan2001monjurul&locale=en&mode=daily&theme=prussian&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
